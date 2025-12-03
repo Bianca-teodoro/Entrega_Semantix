@@ -1,1 +1,1 @@
-# Entrega_Semantix
+Neste diretório podem ser encontradas bases de dados em formato .csv, notebooks em formato .py para a elaboração da entrega do módulo 35 do curso analista de dados da escola britânica de artes criativas e tecnologia. Além disso, também está anexo um arquivo .docx dissertando sobre a problemática escolhida —compra de medicamentos e dispositivos médicos — e como a análise de dados pode ser usada para encontrar soluções.
